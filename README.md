@@ -2,6 +2,13 @@
 
   <h2 size="20">Frontend Developer</h2>
     <p></p>
+    - ## [Portfolio](https://vaibhavbergal.vercel.app/)
+
+<h3 align="left" size="20">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vaibhavbergal99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavbergal99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-bergal-04869421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-bergal-04869421b" height="30" width="40" /></a>
+</p>
     <h2 size="20">Skills</h2>
     <a href="#" target="blank">
       <img
@@ -123,7 +130,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bergal</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://vaibhavbergal.vercel.app/](https://vaibhavbergal.vercel.app/)
+
 
 - 📫 How to reach me **bergalvaibhav33@gmail.com**
 
