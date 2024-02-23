@@ -12,7 +12,7 @@
         src="https://cdn-icons-png.freepik.com/512/3237/3237472.png?ga=GA1.1.683952785.1708265935&"
         align="center"
         height="30"
-        width="20"
+        width="27"
       />
 </a>
 
