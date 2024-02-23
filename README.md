@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Sandip Sarkar
+### Hi there 👋 I'm Vaibhav Bergal
 
-  <h2 size="20">Full Stack Web Developer</h2>
+  <h2 size="20">Frontend Developer</h2>
     <p></p>
     <h2 size="20">Skills</h2>
     <a href="#" target="blank">
